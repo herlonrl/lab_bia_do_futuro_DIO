@@ -1,5 +1,14 @@
 # Documentação do Agente
 
+> [!TIP]
+> **Prompt Sugerido para esta etapa:**
+> ```
+> Me ajude a documentar um agente de IA fianceiro. O caso de use é [descreva seu caso de uso].
+> Preciso definir: problema que resolve, publico-alvo, personalidade do agente, tom de voz
+> e estratégica anti-alucinação. Use o template abaixo como base:
+> [Cole o templata 01-documentacao-agente.md]
+> ```
+
 ## Caso de Uso
 
 ### Problema
