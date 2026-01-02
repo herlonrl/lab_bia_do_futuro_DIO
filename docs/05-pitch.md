@@ -2,7 +2,20 @@
 
 > [!TIP]
 > Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
+
+----
+
+## Estrutura do Pitch
+
+| Tempo | Seção | O que falar |
+|-------|-------|-------------|
+| 0:00 - 0:30 | Problema | A dor que você resolve |
+| 0:30 - 1:30 | Solução | Como o agente resolveu |
+| 1:30 - 2:30 | Demo | Mostre o funcionamento |
+| 2:30 - 3:00 | Diferencial | Por que é inovador |
+
+---
+
 ## Roteiro Sugerido
 
 ### 1. O Problema (30 seg)
